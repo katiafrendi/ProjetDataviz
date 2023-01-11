@@ -11,3 +11,6 @@ https://www.securite-routiere.gouv.fr/radars/chiffres-radars/historique-des-rada
 ## Visalaisation de la répartition des radars sur l'ensemble du teriitoir francais 
 ## Radars et baisse de la mortalité routière
 Les conducteurs ont considérablement réduit leur vitesse moyenne, passant de 91 km/h à 80 km/h. Cela a contribué à une baisse moyenne des accidents mortels à proximité des radars de 66 %. En 10 ans, entre 2003 et 2012, les radars ont permis de sauver 23 000 vies. 
+#Utilisation des outils de datavisualiation 
+##utilisation de l'outil paladio cependant les données traité par l'outil sont non exportablee donc en sois l'outil m'a permis de mieux comprendre et assimilité les données = > capture video avec filtre 
+je passe à l'utilisation de l'outil rawgraph avec l'avantage d'exporter les donnée s
